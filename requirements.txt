@@ -1,0 +1,10 @@
+# FoodBridge AI - Python 3.11
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+tensorflow>=2.16,<2.21
+pillow>=10.0
+matplotlib>=3.8
+joblib>=1.4
+anthropic>=1.13

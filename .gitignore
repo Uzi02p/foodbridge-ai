@@ -1,0 +1,19 @@
+# Files that should NOT be uploaded to GitHub
+
+# Local Python environment (Streamlit Cloud installs its own from requirements.txt)
+.venv/
+__pycache__/
+
+# The Kaggle image dataset is 3.7 GB - too big for GitHub. Only the trained model is uploaded.
+data/fresh_rotten/
+dataset/
+
+# Donation log is created while using the app
+data/donations.csv
+
+# Secrets (API keys) must never be uploaded
+.streamlit/secrets.toml
+.env
+
+# Mac system files
+.DS_Store

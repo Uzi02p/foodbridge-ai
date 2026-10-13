@@ -1,0 +1,17 @@
+{
+  "train_accuracy": 0.9817447662353516,
+  "test_accuracy": 0.9844329132690882,
+  "confusion_matrix": [
+    [
+      1140,
+      24
+    ],
+    [
+      18,
+      1516
+    ]
+  ],
+  "num_train_images": 10901,
+  "num_test_images": 2698,
+  "epochs": 5
+}

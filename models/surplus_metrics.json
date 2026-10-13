@@ -1,0 +1,7 @@
+{
+  "r2_score": 0.8174662091661938,
+  "mae_kg": 2.4804762205366395,
+  "customer_weight": -0.3300152595864369,
+  "num_train_days": 144,
+  "num_test_days": 36
+}

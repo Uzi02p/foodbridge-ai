@@ -1,0 +1,11 @@
+name,area,capacity_kg,accepts_cooked_food,phone
+Sample Hope Kitchen,Central,40,True,+00 000 000 001
+Sample Central Food Bank,Central,80,False,+00 000 000 002
+Sample Night Shelter,North,25,True,+00 000 000 003
+Sample Children's Home,North,15,True,+00 000 000 004
+Sample Community Fridge,South,20,False,+00 000 000 005
+Sample Women's Shelter,South,30,True,+00 000 000 006
+Sample Elder Care Centre,East,10,True,+00 000 000 007
+Sample Street Meals Trust,East,50,True,+00 000 000 008
+Sample Migrant Workers Kitchen,West,35,True,+00 000 000 009
+Sample West Food Bank,West,60,False,+00 000 000 010
